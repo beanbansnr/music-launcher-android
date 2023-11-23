@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Music Launcher</string>
-    <string name="target_app">com.google.android.apps.youtube.music</string>
+    <string name="target_app">in.krosbits</string>
 </resources>
